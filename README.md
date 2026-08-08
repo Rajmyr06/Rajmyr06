@@ -53,6 +53,8 @@ A non-diagnostic research interface for analyzing hematology patterns using a fr
 
 **Technology:** Python, FastAPI, XGBoost, Pydantic, Jinja2, HTMX, Docker
 
+[View live application](https://hemalens-webapp.vercel.app/)
+
 > HemaLens is an academic research prototype and must not be used for medical diagnosis or clinical decision-making.
 
 ---
