@@ -43,7 +43,10 @@ Comparative analysis of Random Forest and XGBoost using hematology data, with em
 
 This is my primary GitHub account for personal projects and professional portfolio work.
 
-Academic coursework and university team projects are maintained on [@Rohitrraj](https://github.com/Rohitrraj).
+Major projects, maintained applications, open-source work, and professional
+portfolio repositories are centralized on this account. Small practicums,
+coursework, and university exercises remain on
+[@Rohitrraj](https://github.com/Rohitrraj).
 
 ## Connect
 
