@@ -22,7 +22,7 @@ A web-based clinical laboratory reservation and patient registration system buil
 - Patient and administrator workflows
 - REST API and automated testing
 
-Repository: [Rohitrraj/RPL2026-Projek-Medilabs](https://github.com/Rohitrraj/RPL2026-Projek-Medilabs)
+Repository: [Rajmyr06/RPL2026-Projek-Medilabs](https://github.com/Rajmyr06/RPL2026-Projek-Medilabs)
 
 ### Personal Portfolio
 A portfolio website containing selected projects, technical interests, and development experience.
